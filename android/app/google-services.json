@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808334193055",
+    "project_id": "bright-crossbar-428910-t4",
+    "storage_bucket": "bright-crossbar-428910-t4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808334193055:android:56a0de98d9ee8360278daa",
+        "android_client_info": {
+          "package_name": "com.example.signlang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH_2PlS8L6BUm0FpvX0Y5xHBvhGY4-trU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
